@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.5.0"
+  version: "1.0.0"
 
 package:
   name: tango-keystore
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/t/tango-keystore/tango_keystore-${{ version }}.tar.gz
-  sha256: d139601e07bde4c80792c6c54e6efb89fa3c5478439d4ffa8209dc3027763166
+  sha256: f8ee2791874c52fbc711ff1f9331b180130e261cddf4e17d881a0ca9e9d24c3e
 
 build:
   number: 0
